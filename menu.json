@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Adobo Rice Meal",
+    "description": "Tender chicken simmered in soy-vinegar sauce with steamed rice.",
+    "category": "Meals",
+    "price": 149.0,
+    "image": "images/chicken_adobo.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pork Sinigang",
+    "description": "Sour tamarind soup with pork, vegetables and rice.",
+    "category": "Meals",
+    "price": 169.0,
+    "image": "images/pork_sinigang.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Beef Tapsilog",
+    "description": "Marinated beef tapa with garlic rice and a fried egg.",
+    "category": "Meals",
+    "price": 159.0,
+    "image": "images/beef_tapsilog.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Crispy Pork Sisig",
+    "description": "Sizzling chopped pork with onions, chili and calamansi.",
+    "category": "Meals",
+    "price": 179.0,
+    "image": "images/pork_sisig.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Classic Cheeseburger",
+    "description": "Juicy beef patty, cheddar, lettuce, tomato and house sauce.",
+    "category": "Burgers",
+    "price": 129.0,
+    "image": "images/cheeseburger.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Double Bacon Burger",
+    "description": "Two beef patties stacked with crispy bacon and cheese.",
+    "category": "Burgers",
+    "price": 199.0,
+    "image": "images/double_bacon_burger.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Chicken Burger",
+    "description": "Crispy fried chicken fillet with mayo and pickles.",
+    "category": "Burgers",
+    "price": 119.0,
+    "image": "images/chicken_burger.jpg"
+  },
+  {
+    "name": "French Fries",
+    "category": "Snacks",
+    "price": 69.0,
+    "description": "Golden, crispy and lightly salted.",
+    "image": "images/french_fries.jpg",
+    "id": 8
+  },
+  {
+    "id": 9,
+    "name": "Lumpiang Shanghai (8 pcs)",
+    "description": "Crispy pork spring rolls with sweet chili sauce.",
+    "category": "Snacks",
+    "price": 89.0,
+    "image": "images/lumpiang_shanghai.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Banana Cue",
+    "description": "Deep-fried caramelized saba bananas on a stick.",
+    "category": "Snacks",
+    "price": 39.0,
+    "image": "images/banana_cue.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Cheesy Nachos",
+    "description": "Tortilla chips with melted cheese and salsa.",
+    "category": "Snacks",
+    "price": 99.0,
+    "image": "images/cheesy_nachos.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Iced Tea",
+    "description": "Freshly brewed, lightly sweetened and chilled.",
+    "category": "Drinks",
+    "price": 45.0,
+    "image": "images/iced_tea.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Mango Shake",
+    "description": "Thick and creamy shake made from ripe Davao mangoes.",
+    "category": "Drinks",
+    "price": 85.0,
+    "image": "images/mango_shake.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Calamansi Juice",
+    "description": "Refreshing and tangy Philippine lime juice.",
+    "category": "Drinks",
+    "price": 55.0,
+    "image": "images/calamansi_juice.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Bottled Water",
+    "description": "500 ml purified drinking water.",
+    "category": "Drinks",
+    "price": 25.0,
+    "image": "images/bottled_water.jpg"
+  }
+]
